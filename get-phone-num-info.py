@@ -5,7 +5,7 @@ try:
     import pyfiglet
     import phonenumbers
 except ModuleNotFoundError:
-    print("\033[1;31;40m Some requirements are missing!\n\nRun \"pip install -r requirements.txt\" then run \"python3 phonenumber_osint.py \"\033[1;37;40m" )
+    print("\033[1;31;40m Some requirements are missing!\n\nRun \"pip install -r requirements.txt\" then run \"python3 get-phone-num-info.py \"\033[1;37;40m" )
     t.sleep(2)
     exit()
 from colorama import *
@@ -16,7 +16,7 @@ t.sleep(5)
 os.system("clear")
 def loop():
     os.system("clear")
-    head = pyfiglet.figlet_format("PhoneNumber-OSINT")
+    head = pyfiglet.figlet_format("Phone-Num-Info")
     print (Fore.YELLOW + head)
     print(Fore.RED + " Version 1.3".center(60))
     print(Fore.YELLOW + "[+] " + Fore.GREEN + "Tool Name:phone-num-info\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Author:Yousuf Shafi'i Muhammad.(Junior Programmer)\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Version:1.3\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Team:Junior Programmers\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Github:https://github.cm/Yousuf9963/phone-num-info\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Follow me on Github: https://github.com/Yousuf9963")
