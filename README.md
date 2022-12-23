@@ -14,6 +14,8 @@ apt install pip
 
 git clone https://github.com/Yousuf9963/phone-num-info.git
 
+apt install pip
+
 cd phone-num-info
 
 pip install -r requirements.txt
