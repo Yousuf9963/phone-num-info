@@ -11,7 +11,7 @@ except ModuleNotFoundError:
 from colorama import *
 from phonenumbers import geocoder, carrier, timezone
 colorama.init(autoreset=True)
-print(Fore.RED + "𝔻𝕚𝕤𝕔𝕝𝕒𝕚𝕞𝕖r: [!] legal disclaimer: Usage of phone-num-info for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 👍👍👍")
+print(Fore.RED + "𝔻𝕚𝕤𝕔𝕝𝕒𝕚𝕞𝕖r: [!] legal disclaimer: Usage of Phone-Num-Info for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 👍👍👍")
 t.sleep(5)
 os.system("clear")
 def loop():
