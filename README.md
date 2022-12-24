@@ -22,5 +22,9 @@ pip install -r requirements.txt
 
 python3 get-phone-num-info.py
 
-# Follow me Thank you...
+# Support Follow me Thank you...
+
+bitcoin Address
+
+bnb1ruya90hx4fgedwdtl46dade5m08d3danndhd3n
 
