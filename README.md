@@ -25,4 +25,4 @@ python3 get-phone-num-info.py
 
 # Donation
 
-# If you want to Donate Kindly click here Thank you.: https://www.buymeacoffee.com/junioprogrammer
+if you want to Donate Kindly click here Thank you.: https://www.buymeacoffee.com/junioprogrammer
