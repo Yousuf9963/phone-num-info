@@ -14,8 +14,6 @@ apt install pip
 
 git clone https://github.com/Yousuf9963/phone-num-info.git
 
-apt install pip
-
 cd phone-num-info
 
 pip install -r requirements.txt
@@ -24,7 +22,4 @@ python3 get-phone-num-info.py
 
 # Support Follow me Thank you...
 
-bitcoin Address
-
-bnb1ruya90hx4fgedwdtl46dade5m08d3danndhd3n
 
