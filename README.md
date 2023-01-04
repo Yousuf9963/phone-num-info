@@ -10,11 +10,11 @@ pkg install git
 
 pkg install python3
 
-apt install pip
-
 git clone https://github.com/Yousuf9963/phone-num-info.git
 
 cd phone-num-info
+
+chmod +x *
 
 pip install -r requirements.txt
 
