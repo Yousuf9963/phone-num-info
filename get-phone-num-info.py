@@ -19,7 +19,7 @@ def loop():
     head = pyfiglet.figlet_format("Phone-Num-Info")
     print (Fore.YELLOW + head)
     print(Fore.RED + " Version 1.3".center(60))
-    print(Fore.YELLOW + "[+] " + Fore.GREEN + "Tool Name:phone-num-info\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Author:Yousuf Shafi'i Muhammad.(Junior Programmer)\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Version:1.3\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Team:Junior Programmers\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Github:https://github.com/Yousuf9963/phone-num-info\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Follow me on Github: https://github.com/Yousuf9963")
+    print(Fore.YELLOW + "[+] " + Fore.GREEN + "Tool Name:phone-num-info\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Author:Yousuf Shafi'i Muhammad.(Junior Programmer)\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Version:1.0\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Team:Junior Programmers\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Github:https://github.com/Yousuf9963/phone-num-info\n" + Fore.YELLOW + "[+] " + Fore.GREEN + "Follow me on Github: https://github.com/Yousuf9963")
     print(Fore.RED + ">>>>>>>>>>>>>>>>>>>>>>>>>>>>" + Fore.CYAN + "Choose a valid option" + Fore.RED + "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<")
     print(Fore.BLUE + """
 [1] Get basic information about  Phone Number
